@@ -70,7 +70,6 @@ This repository contains my solutions for the 42cursus **Exam Rank 04**, which i
 - All projects are implemented in **C**, without using external libraries unless explicitly allowed.
 - Each level had a strict time constraint during the exam.
 - The repository is organized into folders by level, each containing source code and test cases.
-- I skipped `tsp` due to time constraints but plan to complete it later for practice.
 
 ---
 
